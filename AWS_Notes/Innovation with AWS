@@ -1,0 +1,93 @@
+Innovate with AWS Services
+
+When examining how to use AWS services, it is important to focus on the desired outcomes. You are properly equipped to drive innovation in the cloud if you can clearly articulate the following conditions: 
+
+The current state
+The desired state
+The problems you are trying to solve
+Consider some of the paths you might explore in the future as you continue on your cloud journey. 
+
+To learn more on ways to innovate with AWS, expand each of the following three categories.
+
+
+Serverless applications
+
+Artificial intelligence
+
+Machine learning
+Amazon Q Developer
+
+Play Video
+
+Video transcript
+What is Amazon Q Developer?
+
+When we show up to the present moment with all of our senses, we invite the world to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But the now is full of beauty simply waiting for our attention.
+
+
+Amazon Q Developer is a machine learning-powered code generator that provides you with code recommendations in real time.
+
+As you write code, Amazon Q Developer analyzes your code and comments as you write code in your integrated development environment (IDE). Amazon Q Developer then automatically generates suggestions based on your existing code and comments.
+
+Additionally, Amazon Q Developer analyzes the surrounding code, ensuring the generated code matches your style, naming conventions, and seamlessly integrates into the existing context.
+
+Installation
+
+Developers can easily access Amazon Q Developer by downloading and installing the AWS Toolkit IDE extension. You can also activate Amazon Q Developer from directly within the AWS Lambda and AWS Cloud9 console code editors.
+
+Installation instructions
+
+Installation instructions very depending on the environment. For more information, see “Setting up Amazon Q Developer” in the Amazon Q Developer User Guide by clicking on the button.
+
+Installation
+Compatibility
+
+Amazon Q Developer seamlessly integrates with popular tools like Visual Studio (VS) Code, JetBrains IDEs (IntelliJ IDEA, PyCharm, etc.), Amazon SageMaker Studio, JupyterLab, AWS Cloud9, and the AWS Lambda console.
+
+Support
+
+It supports a wide range of programming languages and development environments, including Python, Java, JavaScript, TypeScript, C#, Go, Rust, PHP, Ruby, Kotlin, C, C++, Shell scripting, SQL, and Scala.
+
+Code Generation
+
+User actions will vary depending on the tools you're integrating with. Take a look at the table below for an example of user actions available in VS Code.
+
+User actions
+Previous and Next recommendation
+Left arrow and Right arrow
+Accept a recommendation
+Tab
+Reject a recommendation
+ESC
+Manually trigger code generation when typing a comment
+MacOS [option]-[c], Windows [Alt]-[c]
+Resources
+
+For more information on Amazon Q Developer, see the following resources:
+
+AWS Website: Getting started(opens in a new tab)
+AWS Skill Builder: Amazon Q Developer - Getting started(opens in a new tab)
+AWS Workshop: Learn how to build an event-driven serverless app(opens in a new tab)
+Knowledge check
+
+Which service enables you to quickly build, train, and deploy machine learning models?
+
+Amazon Textract
+
+Amazon Lex
+
+AWS DeepRacer
+
+Amazon SageMaker
+
+SUBMIT
+
+
+
+
+
+
+
+(opens in a new tab)
+
+TAKE AGAIN
