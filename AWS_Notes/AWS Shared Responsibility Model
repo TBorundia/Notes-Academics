@@ -1,0 +1,36 @@
+The AWS shared responsibility model
+
+Throughout this course, you have learned about a variety of resources that you can create in the AWS Cloud. These resources include Amazon EC2 instances, Amazon S3 buckets, and Amazon RDS databases. Who is responsible for keeping these resources secure: you (the customer) or AWS?
+
+The answer is both. The reason is that you do not treat your AWS environment as a single object. Rather, you treat the environment as a collection of parts that build upon each other. AWS is responsible for some parts of your environment and you (the customer) are responsible for other parts. This concept is known as the shared responsibility model(opens in a new tab).
+
+The shared responsibility model divides into customer responsibilities (commonly referred to as “security in the cloud”) and AWS responsibilities (commonly referred to as “security of the cloud”).
+
+AWS Shared Responsibility Model, showing AWS responsibility of the cloud and customer responsibility in the cloud.
+You can think of this model as being similar to the division of responsibilities between a homeowner and a homebuilder. The builder (AWS) is responsible for constructing your house and ensuring that it is solidly built. As the homeowner (the customer), it is your responsibility to secure everything in the house by ensuring that the doors are closed and locked. 
+
+To learn more about the shared responsibility model, expand each of the following two categories.
+
+
+Customers: Security in the cloud
+
+AWS: Security of the cloud
+Knowledge check
+
+For guidance on navigating this question using the keyboard, expand the following keyboard instructions.
+
+
+Keyboard instructions
+Which tasks are the responsibilities of customers? (Select TWO.)
+
+Maintaining network infrastructure
+
+Patching software on Amazon EC2 instances
+
+Implementing physical security controls at data centers
+
+Setting permissions for Amazon S3 objects
+
+Maintaining servers that run Amazon EC2 instances
+
+SUBMIT
