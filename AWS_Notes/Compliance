@@ -1,0 +1,49 @@
+AWS Artifact
+
+Depending on your company’s industry, you may need to uphold specific standards. An audit or inspection will ensure that the company has met those standards.
+
+AWS Artifact(opens in a new tab) is a service that provides on-demand access to AWS security and compliance reports and select online agreements. AWS Artifact consists of two main sections: AWS Artifact Agreements and AWS Artifact Reports.
+
+To learn more, expand each of the following two categories.
+
+
+AWS Artifact Agreements
+
+AWS Artifact Reports
+The following are some of the compliance reports and regulations that you can find within AWS Artifact. Each report includes a description of its contents and the reporting period for which the document is valid. 
+
+
+AWS Artifact provides access to AWS security and compliance documents, such as AWS ISO certifications, Payment Card Industry (PCI) reports, and Service Organization Control (SOC) reports.  To learn more about the available compliance reports, visit AWS Compliance Programs(opens in a new tab).
+
+Customer Compliance Center
+
+The Customer Compliance Center(opens in a new tab) contains resources to help you learn more about AWS compliance. 
+
+In the Customer Compliance Center, you can read customer compliance stories to discover how companies in regulated industries have solved various compliance, governance, and audit challenges.
+
+You can also access compliance whitepapers and documentation on topics such as:
+
+AWS answers to key compliance questions
+An overview of AWS risk and compliance
+An auditing security checklist
+Additionally, the Customer Compliance Center includes an auditor learning path. This learning path is designed for individuals in auditing, compliance, and legal roles who want to learn more about how their internal operations can demonstrate compliance using the AWS Cloud.
+
+Knowledge check
+
+For guidance on navigating this question using the keyboard, expand the following keyboard instructions.
+
+
+Keyboard instructions
+Which tasks can you complete in AWS Artifact? (Select TWO.)
+
+Access AWS compliance reports on-demand.
+
+Consolidate and manage multiple AWS accounts within a central location.
+
+Create users to enable people and applications to interact with AWS services and resources.
+
+Set permissions for accounts by configuring service control policies (SCPs).
+
+Review, accept, and manage agreements with AWS.
+
+SUBMIT
