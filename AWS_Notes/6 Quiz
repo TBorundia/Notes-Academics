@@ -14,13 +14,6 @@ The identity that is established when you first create an AWS account
 
 SUBMIT
 
-
-
-
-
-
-
-
 (opens in a new tab)
 
 TAKE AGAIN
@@ -35,12 +28,6 @@ IAM role
 Service control policy (SCP)
 
 SUBMIT
-
-
-
-
-
-
 
 (opens in a new tab)
 
@@ -57,12 +44,6 @@ Performing a denial of service attack that originates from at least one device
 
 SUBMIT
 
-
-
-
-
-
-
 (opens in a new tab)
 
 TAKE AGAIN
@@ -77,14 +58,6 @@ AWS Artifact
 AWS Shield
 
 SUBMIT
-
-
-
-
-
-
-
-
 
 (opens in a new tab)
 
@@ -101,13 +74,7 @@ Assign permissions to users and groups.
 
 SUBMIT
 
-
-
-
-
-
-
 (opens in a new tab)
 
 TAKE AGAIN
-The next module explores AWS tools for m
+The next module explores AWS tools for monitoring and analytics.
