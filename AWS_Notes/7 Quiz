@@ -1,0 +1,68 @@
+Test your knowledge of some of the key concepts from this module by answering the questions in this quiz.
+
+After answering each question, review the detailed answer explanations and external links to reinforce your understanding of the concepts.
+
+Which actions can you perform using Amazon CloudWatch? (Select TWO.)
+
+Monitor your resources’ utilization and performance
+
+Receive real-time guidance for improving your AWS environment
+
+Compare your infrastructure to AWS best practices in five categories
+
+Access metrics from a single dashboard
+
+Automatically detect unusual account activity
+
+SUBMIT
+
+
+
+
+(opens in a new tab)
+
+TAKE AGAIN
+Which service enables you to review the security of your Amazon S3 buckets by checking for open access permissions?
+
+Amazon CloudWatch
+
+AWS CloudTrail
+
+AWS Trusted Advisor
+
+Amazon GuardDuty
+
+SUBMIT
+
+
+
+
+
+
+
+(opens in a new tab)
+
+TAKE AGAIN
+Which categories are included in the AWS Trusted Advisor dashboard? (Select TWO.)
+
+Reliability
+
+Performance
+
+Scalability
+
+Elasticity
+
+Fault tolerance
+
+SUBMIT
+
+
+
+
+
+
+(opens in a new tab)
+
+TAKE AGAIN
+The next module examines AWS pricing and support.
