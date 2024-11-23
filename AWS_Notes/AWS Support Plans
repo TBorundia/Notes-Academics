@@ -1,0 +1,58 @@
+AWS Support
+
+AWS offers four different Support plans(opens in a new tab) to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
+
+You can choose from the following Support plans to meet your company’s needs: 
+
+Basic
+Developer
+Business
+Enterprise On-Ramp
+Enterprise
+Basic Support
+
+Basic Support is free for all AWS customers. It includes access to whitepapers, documentation, and support communities. With Basic Support, you can also contact AWS for billing questions and service limit increases.
+
+With Basic Support, you have access to a limited selection of AWS Trusted Advisor checks. Additionally, you can use the AWS Personal Health Dashboard, a tool that provides alerts and remediation guidance when AWS is experiencing events that may affect you. 
+
+If your company needs support beyond the Basic level, you could consider purchasing Developer, Business, Enterprise On-Ramp, and Enterprise Support.
+
+Developer, Business, Enterprise On-Ramp, and Enterprise Support
+
+The Developer, Business, Enterprise On-Ramp, and Enterprise Support plans include all the benefits of Basic Support, in addition to the ability to open an unrestricted number of technical support cases. These Support plans have pay-by-the-month pricing and require no long-term contracts.
+
+The information in this course highlights only a selection of details for each Support plan. A complete overview of what is included in each Support plan, including pricing for each plan, is available on the AWS Support(opens in a new tab) site.
+
+In general, for pricing, the Developer plan has the lowest cost, the Business and Enterprise On-Ramp plans are in the middle, and the Enterprise plan has the highest cost.
+
+To learn more about AWS support plans, expand each of the following four categories.
+
+
+Developer Support
+
+Business Support
+
+Enterprise On-Ramp Support
+
+Enterprise Support
+Technical Account Manager (TAM)
+
+The Enterprise On-Ramp and Enterprise Support plans include access to a Technical Account Manager (TAM).
+
+The TAM is your primary point of contact at AWS. If your company subscribes to Enterprise Support or Enterprise On-Ramp, your TAM educates, empowers, and evolves your cloud journey across the full range of AWS services. TAMs provide expert engineering guidance, help you design solutions that efficiently integrate AWS services, assist with cost-effective and resilient architectures, and provide direct access to AWS programs and a broad community of experts.
+
+For example, suppose that you are interested in developing an application that uses several AWS services together. Your TAM could provide insights into how to best use the services together. They achieve this, while aligning with the specific needs that your company is hoping to address through the new application.
+
+Knowledge check
+
+Which Support plan includes all AWS Trusted Advisor checks at the lowest cost?
+
+Basic
+
+Developer
+
+Business
+
+Enterprise
+
+SUBMIT
