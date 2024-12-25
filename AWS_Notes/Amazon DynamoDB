@@ -1,0 +1,85 @@
+Nonrelational databases
+
+In a nonrelational database, you create tables. A table is a place where you can store and query data.
+
+Nonrelational databases are sometimes referred to as “NoSQL databases” because they use structures other than rows and columns to organize data. One type of structural approach for nonrelational databases is key-value pairs. With key-value pairs, data is organized into items (keys), and items have attributes (values). You can think of attributes as being different features of your data.
+
+In a key-value database, you can add or remove attributes from items in the table at any time. Additionally, not every item in the table has to have the same attributes. 
+
+Example of data in a nonrelational database:
+
+Key	Value
+1	
+Name: John Doe
+
+Address: 123 Any Street
+
+Favorite drink: Medium latte
+
+2	
+Name: Mary Major
+
+Address: 100 Main Street
+
+Birthday: July 5, 1994
+
+Amazon DynamoDB
+
+Amazon DynamoDB(opens in a new tab) is a key-value database service. It delivers single-digit millisecond performance at any scale.
+
+To learn about features of DynamoDB, select each flashcard by choosing them.
+
+Front of card
+Serverless
+
+
+Click to flip
+Back of card
+DynamoDB is serverless, which means that you do not have to provision, patch, or manage servers. 
+
+
+
+You also do not have to install, maintain, or operate software.
+
+
+Click to flip
+Front of card
+Automatic scaling
+
+
+Click to flip
+Back of card
+As the size of your database shrinks or grows, DynamoDB automatically scales to adjust for changes in capacity while maintaining consistent performance. 
+
+
+
+This makes it a suitable choice for use cases that require high performance while scaling.
+
+
+Click to flip
+To start the video on comparing Amazon RDS and Amazon DynamoDB, choose the play button.
+
+Play Video
+To access a transcript of the video, choose the following transcript.
+
+
+Video transcript
+Knowledge check
+
+For guidance on navigating this question using the keyboard, expand the following keyboard instructions.
+
+
+Keyboard instructions
+What are the scenarios in which you should use Amazon Relational Database Service (Amazon RDS)? (Select TWO.)
+
+Running a serverless database
+
+Using SQL to organize data
+
+Storing data in a key-value database
+
+Scaling up to 10 trillion requests per day
+
+Storing data in an Amazon Aurora database
+
+SUBMIT
