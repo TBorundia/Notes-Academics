@@ -1,0 +1,84 @@
+Test your knowledge of some of the key concepts from this module by answering the questions in this quiz.
+
+After answering each question, review the detailed answer explanations and external links to reinforce your understanding of the concepts.
+
+Which Amazon S3 storage classes are optimized for archival data? (Select TWO.)
+
+Amazon S3 Standard
+
+Amazon S3 Glacier Flexible Retrieval
+
+Amazon S3 Intelligent-Tiering
+
+Amazon S3 Standard-IA
+
+Amazon S3 Glacier Deep Archive
+
+SUBMIT
+
+(opens in a new tab)
+
+TAKE AGAIN
+Which statement or statements are TRUE about Amazon EBS volumes and Amazon EFS file systems?
+
+EBS volumes store data within a single Availability Zone. Amazon EFS file systems store data across multiple Availability Zones.
+
+EBS volumes store data across multiple Availability Zones. Amazon EFS file systems store data within a single Availability Zone.
+
+EBS volumes and Amazon EFS file systems both store data within a single Availability Zone.
+
+EBS volumes and Amazon EFS file systems both store data across multiple Availability Zones.
+
+SUBMIT
+
+(opens in a new tab)
+(opens in a new tab)
+
+TAKE AGAIN
+You want to store data in an object storage service. Which AWS service is best for this type of storage?
+
+Amazon Managed Blockchain
+
+Amazon Elastic File System (Amazon EFS)
+
+Amazon Elastic Block Store (Amazon EBS)
+
+Amazon Simple Storage Service (Amazon S3)
+
+SUBMIT
+
+(opens in a new tab)
+(opens in a new tab)
+
+TAKE AGAIN
+Which statement best describes Amazon DynamoDB?
+
+A service that enables you to run relational databases in the AWS Cloud
+
+A serverless key-value database service
+
+A service that you can use to migrate relational databases, nonrelational databases, and other types of data stores
+
+An enterprise-class relational database
+
+SUBMIT
+
+(opens in a new tab)
+
+TAKE AGAIN
+Which service is used to query and analyze data across a data warehouse?
+
+Amazon Redshift
+
+Amazon Neptune
+
+Amazon DocumentDB
+
+Amazon ElastiCache
+
+SUBMIT
+
+(opens in a new tab)
+
+TAKE AGAIN
+The next module examines security in the AWS Cloud.
